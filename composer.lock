@@ -85,16 +85,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v1.4.0",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b"
+                "reference": "64db136c34b722295fb0ac126323de2b334302cc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
-                "reference": "9ce17fb70e9a38dd8acff0636a29f5cf4d575c1b",
+                "url": "https://api.github.com/repos/composer/installers/zipball/64db136c34b722295fb0ac126323de2b334302cc",
+                "reference": "64db136c34b722295fb0ac126323de2b334302cc",
                 "shasum": ""
             },
             "require": {
@@ -106,7 +106,7 @@
             },
             "require-dev": {
                 "composer/composer": "1.0.*@dev",
-                "phpunit/phpunit": "4.1.*"
+                "phpunit/phpunit": "^4.8.36"
             },
             "type": "composer-plugin",
             "extra": {
@@ -177,15 +177,18 @@
                 "lavalite",
                 "lithium",
                 "magento",
+                "majima",
                 "mako",
                 "mediawiki",
                 "modulework",
+                "modx",
                 "moodle",
                 "osclass",
                 "phpbb",
                 "piwik",
                 "ppi",
                 "puppet",
+                "pxcms",
                 "reindex",
                 "roundcube",
                 "shopware",
@@ -198,7 +201,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2017-08-09T07:53:48+00:00"
+            "time": "2017-12-21 15:03:21"
         },
         {
             "name": "embed/embed",
@@ -896,12 +899,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "57824ff8febd2433b5e16c40174b7a4afa4dd86d"
+                "reference": "b7c90623d6c327e17410dbb3ee5b1a28e1f90971"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/57824ff8febd2433b5e16c40174b7a4afa4dd86d",
-                "reference": "57824ff8febd2433b5e16c40174b7a4afa4dd86d",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b7c90623d6c327e17410dbb3ee5b1a28e1f90971",
+                "reference": "b7c90623d6c327e17410dbb3ee5b1a28e1f90971",
                 "shasum": ""
             },
             "require": {
@@ -953,7 +956,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2017-12-14 20:15:10"
+            "time": "2017-12-21 17:33:36"
         },
         {
             "name": "md/rss-display",
