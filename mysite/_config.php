@@ -12,5 +12,5 @@ $validator->checkHistoricalPasswords(6);
 Member::set_password_validator($validator);
 
 if(Director::isLive()) {
-	//Director::forceSSL();
+	Director::forceSSL();
 }
