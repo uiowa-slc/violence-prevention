@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0bf7cfa22022e6b5bcd9d14eebc50c4f",
+    "content-hash": "18b0a7155f98b9731a126e745077a1fc",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -808,16 +808,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.45",
+            "version": "1.0.46",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "a99f94e63b512d75f851b181afcdf0ee9ebef7e6"
+                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a99f94e63b512d75f851b181afcdf0ee9ebef7e6",
-                "reference": "a99f94e63b512d75f851b181afcdf0ee9ebef7e6",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
+                "reference": "f3e0d925c18b92cf3ce84ea5cc58d62a1762a2b2",
                 "shasum": ""
             },
             "require": {
@@ -829,7 +829,7 @@
             "require-dev": {
                 "ext-fileinfo": "*",
                 "phpspec/phpspec": "^3.4",
-                "phpunit/phpunit": "^5.7"
+                "phpunit/phpunit": "^5.7.10"
             },
             "suggest": {
                 "ext-fileinfo": "Required for MimeType",
@@ -888,7 +888,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-05-07T08:44:23+00:00"
+            "time": "2018-08-22T07:45:22+00:00"
         },
         {
             "name": "m1/env",
@@ -1061,12 +1061,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "a88d8ce6a6aad06caab5e8fc84776e8926af8d68"
+                "reference": "b7cc40bd4537420677f56adf43ca920c7794f50a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/a88d8ce6a6aad06caab5e8fc84776e8926af8d68",
-                "reference": "a88d8ce6a6aad06caab5e8fc84776e8926af8d68",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/b7cc40bd4537420677f56adf43ca920c7794f50a",
+                "reference": "b7cc40bd4537420677f56adf43ca920c7794f50a",
                 "shasum": ""
             },
             "require": {
@@ -1109,7 +1109,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/ss4.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-08-17T20:20:35+00:00"
+            "time": "2018-08-22T20:33:04+00:00"
         },
         {
             "name": "md/saml",
@@ -1117,12 +1117,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml.git",
-                "reference": "1cbee922b8dbb985b241044d76b30e35cf49da7c"
+                "reference": "6dd49d10047350b4a44979fc8a0d3a0e4626d4ae"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-saml/zipball/1cbee922b8dbb985b241044d76b30e35cf49da7c",
-                "reference": "1cbee922b8dbb985b241044d76b30e35cf49da7c",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/silverstripe-saml/zipball/6dd49d10047350b4a44979fc8a0d3a0e4626d4ae",
+                "reference": "6dd49d10047350b4a44979fc8a0d3a0e4626d4ae",
                 "shasum": ""
             },
             "require": {
@@ -1177,7 +1177,7 @@
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/silverstripe-saml/tree/md"
             },
-            "time": "2018-08-17T21:04:58+00:00"
+            "time": "2018-08-22T20:27:51+00:00"
         },
         {
             "name": "md/uiowa-bar",
