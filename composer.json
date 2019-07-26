@@ -11,11 +11,11 @@
         "phpunit/phpunit": "^5.7"
     },
     "extra": {
+        "resources-dir": "_resources",
         "branch-alias": {
             "4.x-dev": "4.2.x-dev",
             "dev-master": "5.x-dev"
         },
-        "resources-dir": "_resources",
         "project-files-installed": [
             "app/.htaccess",
             "app/_config.php",
@@ -37,8 +37,7 @@
         ],
         "expose": [
             "themes/division-subtheme/dist",
-            "themes/division-subtheme/css",
-            "mysite/cms_icons"
+            "themes/division-subtheme/css"
         ]
     },
     "repositories": [
